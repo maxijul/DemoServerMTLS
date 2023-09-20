@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wsNdi7+3IqUh1SrZ5/Exttq0vp7nY+MqNss3EMaFYleygP+RV6Ty+BYqaYs0MA0/iJ4jOGyUXHr1PXlRD511A==",
+  "success": true,
+  "projectFilePath": "D:\\PruebaCertificados\\DemoServer\\DemoServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\7.0.11\\microsoft.aspnetcore.authentication.certificate.7.0.11.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Facundo Villalobo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
